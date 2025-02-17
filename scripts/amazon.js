@@ -1,5 +1,5 @@
-let productsHTML = ``;
-product.forEach((product) =>{
+let productsHTML = "";
+products.forEach((product) => {
   // accumulator pattern
       productsHTML += `
       <div class="product-container">
